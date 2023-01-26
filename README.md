@@ -2,7 +2,9 @@
 
 -26.01
 
--8rano
+-8 rano
 
-#spd
-cwiczenia labolatoryjne
+## spd
+**cwiczenia labolatoryjne**
+## trzy
+
